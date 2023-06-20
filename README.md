@@ -1,4 +1,4 @@
-e### Olá, meu nome é Felipe Ferreira! 👋
+Olá, meu nome é Felipe Ferreira! 👋
 
 - 👩‍💻 Analista e Desenvolvedor de Sistemas
 - 👩‍🎓 Sempre em busca de novos conhecimentos
