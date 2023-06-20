@@ -1,4 +1,4 @@
-### Olá, meu nome é Felipe Ferreira! 👋
+e### Olá, meu nome é Felipe Ferreira! 👋
 
 - 👩‍💻 Analista e Desenvolvedor de Sistemas
 - 👩‍🎓 Sempre em busca de novos conhecimentos
@@ -8,7 +8,7 @@
 - 🎬 Apaixonado por **filmes e séries**
 - 🔍 Focado em:
 
-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=marialages&show_icons=true&theme=dark"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreira&hide_progress=true">
+- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipeferreira&show_icons=true&theme=dark"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreira&hide_progress=true">
 
 <div display="inline">
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
