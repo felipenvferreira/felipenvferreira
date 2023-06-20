@@ -8,7 +8,7 @@ Olá, meu nome é Felipe Ferreira! 👋
 - 🎬 Apaixonado por **filmes e séries**
 - 🔍 Focado em:
 
-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipenvferreira&show_icons=true&theme=merko"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenvferreira&hide_progress=true">
+- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipenvferreira&show_icons=true&theme=merko"> 
 
 <div display="inline">
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
